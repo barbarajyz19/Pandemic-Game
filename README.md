@@ -1,4 +1,4 @@
-## l2s4-projet-2023
+## Pandemic Game
 
 # Equipe
 
@@ -13,7 +13,7 @@
 
 # Commandes avec terminal 
 
-Il faut se placer dans l2s4-projet-2023/ pour executer les commandes. 
+Il faut se placer dans Pandemic-Game/ pour executer les commandes. 
 
 * compiler toutes les classes du projets
 ```
@@ -41,7 +41,7 @@ javadoc -classpath jars/json-20220924.jar:src -d docs -subpackages pandemic
 ```
 
 # Commandes avec makefile 
-Il faut se placer dans l2s4-projet-2023/ pour executer les commandes. 
+Il faut se placer dans Pandemic-Game/ pour executer les commandes. 
 
 * compiler toutes les classes du projets 
 ```
