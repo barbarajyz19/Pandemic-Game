@@ -1,2 +1,0 @@
-Main-Class: pandemic.Main
-Class-Path: ../jars/json-20220924.jar
