@@ -1,4 +1,4 @@
-## Pandemic Game
+## Pandemic Game - LICENCE 2
 
 # Equipe
 
